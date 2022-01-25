@@ -1,0 +1,5 @@
+[1,"=> shiny::runApp()\n\n"]
+[2,"Le chargement a nécessité le package : shiny\r\n"]
+[2,"Installation du package dans 'C:/Users/Ilhem/Documents/R/win-library/4.1'\r\n(car 'lib' n'est pas spécifié)\r\nErreur dans contrib.url(repos, \"source\") : \r\n  trying to use CRAN without setting a mirror\r\nAppels : <Anonymous> ... ..stacktraceon.. -> install.packages -> contrib.url\r\n"]
+[2,"Exécution arrêtée\r\n"]
+[1,"\nShiny application failed.\n\n"]

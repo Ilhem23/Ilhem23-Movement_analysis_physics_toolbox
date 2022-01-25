@@ -1,0 +1,13 @@
+name: toolbox_analysis
+title: toolbox_analysis
+username:
+account: ilhem-aissaoui
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5368734
+bundleId: 5408489
+url: https://ilhem-aissaoui.shinyapps.io/toolbox_analysis/
+when: 1640435406.32111
+lastSyncTime: 1640435406.32111
+asMultiple: FALSE
+asStatic: FALSE

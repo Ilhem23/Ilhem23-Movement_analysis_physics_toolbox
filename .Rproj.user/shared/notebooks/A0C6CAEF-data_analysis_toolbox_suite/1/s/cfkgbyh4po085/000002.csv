@@ -1,0 +1,15 @@
+"0","data = read_csv(""x_move2.csv"")"
+"2","New names:
+* `` -> ...11
+"
+"1","[1mRows: [22m[34m5354[39m [1mColumns: [22m[34m11[39m
+"
+"1","[36m--[39m [1mColumn specification[22m [36m-------------------------------------------[39m
+[1mDelimiter:[22m "",""
+[32mdbl[39m (10): time, gFx, gFy, gFz, ax, ay, az, wx, wy, wz
+[33mlgl[39m  (1): ...11
+"
+"1","
+[36mi[39m Use [38;5;235m[48;5;253m[38;5;235m[48;5;253m`spec()`[48;5;253m[38;5;235m[49m[39m to retrieve the full column specification for this data.
+[36mi[39m Specify the column types or set [38;5;235m[48;5;253m[38;5;235m[48;5;253m`show_col_types = FALSE`[48;5;253m[38;5;235m[49m[39m to quiet this message.
+"
